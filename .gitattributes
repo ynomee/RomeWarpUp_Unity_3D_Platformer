@@ -1,6 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-Римская[[:space:]]разминка[[:space:]]WIN[[:space:]]Build/Римская[[:space:]]Разминка_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
-Римская[[:space:]]разминка[[:space:]]WIN[[:space:]]Build/Римская[[:space:]]Разминка_Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
-Assets/Materials/Shader[[:space:]]Lava/ground_0027_normal_directx_4k.png filter=lfs diff=lfs merge=lfs -text
-Assets/Materials/Shader[[:space:]]Lava/ground_0027_normal_opengl_4k.png filter=lfs diff=lfs merge=lfs -text
